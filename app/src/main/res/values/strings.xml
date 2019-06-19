@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CompoundButtonDemo</string>
+    <string name="text_place">Taipei station</string>
+    <string name="text_rbFemale">female</string>
+    <string name="text_rbMale">male</string>
+    <string name="textOn_tbVibrateOn">vibrate on</string>
+    <string name="textOff_tbVibrateOff">vibrate off</string>
+    <string name="swWifi">WiFi</string>
+    <string name="tvText">AAAAA</string>
+    <string name="btAdd">BBBBB</string>
+    <string name="textOn_swWifiOn">on</string>
+    <string name="textOff_swWifiOff">off</string>
+    <string name="checked">checked</string>
+    <string name="unchecked">unchecked</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="button">to_act2</string>
+
+    <string name="yangmingshan">Yangmingshan National Park</string>
+    <string name="yushan">Yushan National Park</string>
+    <string name="taroko">Taroko National Park</string>
+    <string name="myloc">My Location</string>
+    <string name="tvTitle">TTTTT</string>
+    <string name="btDelete">BBBBB</string>
+    <string name="button2">to_act3</string>
+    <string name="exit">Exit</string>
+    <string name="text_tvTitle">Press menu button (on the upper right corner)</string>
+    <string name="guide">Guide</string>
+    <string name="traffic">Traffic</string>
+    <string name="clear">Clear</string>
+    <string name="background">Change Background Color</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+    <string name="cyan">Cyan</string>
+    <string name="text_btDelete">Delete</string>
+    <string name="deleteItem">Delete Selected Item</string>
+    <string name="deleteAll">Delete All the Items</string>
+
+    <string name="text_tvFood">Your favorite food</string>
+    <string-array name="food_array">
+        <item>spaghetti</item>
+    <item>dumpling</item>
+    <item>sushi</item>
+</string-array>
+    <string name="text_tvPlace">Your favorite place</string>
+    <string name="text_NothingSelected">Nothing selected!</string>
+    <string name="button3">to_act1</string>
+
+</resources>
